@@ -10,7 +10,7 @@ How Do I Install Webroot on My Device Using webroot.com/safe?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_8.png
    :width: 350px
    :align: center
    :height: 100px
